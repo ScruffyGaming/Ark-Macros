@@ -2,6 +2,10 @@
 
 ARK Survival Evolved - Gameplay Macros for Scruffy cluster (Odium)
 
+DOWNLOAD: https://github.com/OdiumxXx/Ark-Macros/blob/main/Ark-Macros.ahk
+
+
+
 F1  - Spam Left Click
 
 F2  - Spam Right Click
