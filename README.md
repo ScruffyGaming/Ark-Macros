@@ -2,7 +2,6 @@
 
 ARK Survival Evolved - Gameplay Macros for Scruffy cluster (Odium)
 
-
 F1  - Spam Left Click
 
 F2  - Spam Right Click
@@ -18,4 +17,7 @@ F7  - /nw stats (Used on Scruffy's for checking tame base stats)
 F8  - /decaytime (Used on Scruffy's for checking a base's decay timer)
 
 F9  - Spam 'E' (User Request)
+
+
+To use macros get AutoHotKey: https://www.autohotkey.com/
 
