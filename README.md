@@ -2,6 +2,14 @@
 
 ARK Survival Evolved - Gameplay Macros for Scruffy cluster (Odium)
 
+DOWNLOAD: https://www.file.io/8tf1/download/S9md9HMvIEoM
+
+
+To use macros, get AutoHotKey: https://www.autohotkey.com/
+
+
+
+
 F1  - Spam Left Click
 
 F2  - Spam Right Click
@@ -19,5 +27,5 @@ F8  - /decaytime (Used on Scruffy's for checking a base's decay timer)
 F9  - Spam 'E' (User Request)
 
 
-To use macros get AutoHotKey: https://www.autohotkey.com/
+
 
