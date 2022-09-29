@@ -1,4 +1,6 @@
 ; ARK Survival Evolved - Gameplay Macros for Scruffy cluster (Odium)
+; -------------------------------------------------------------------
+; Forked by Sigvaldr for official ScruffyGaming use
 
 ; F1 Spam Left Click
 ; F2 Spam Right Click
@@ -12,6 +14,10 @@
 #MaxThreadsPerHotkey, 2
 #NoEnv ; 			Recommended for performance and compatibility with future AutoHotkey releases.
 SendMode Input ; 	Recommended for new scripts due to its superior speed and reliability.
+
+
+; Render GUI
+MsgBox,032,Ark-Macros,`nHotkeys:`n`n`nF3 - AutoRun/Fly (Holds shift + W)`n`nF4 - Toggle Gamma (2.2 - 3 - 4)`n`nF5 - Reboot Script / Halt running macros`n`nF7 - /nw stats (Used on Scruffy's for checking tame base stats)`n`nF8 - /decaytime (Used on Scruffy's for checking a base's decay timer)`n`nF9 - Spam 'E'"]
 
 
 
